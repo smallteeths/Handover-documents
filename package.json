@@ -1,0 +1,15 @@
+{
+  "name": "interaction-doc",
+  "version": "1.0.0",
+  "description": "Manager UI And Explorer UI Interaction doc",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
